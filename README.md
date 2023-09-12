@@ -1,4 +1,4 @@
-###AWS Lambda Function - using arguments
+### AWS Lambda Function - using arguments
 
 - This AWS Lambda function, when invoked, takes an input event containing "stockUnits" and "stockPrice" values, calculates the sum of these two values, and returns a JSON response with a 200 status code, containing the total as "Total"
 
